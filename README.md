@@ -1,7 +1,7 @@
 <div align="center">
 
-  # Hey, I'm Alexandr Pitropov 👋
-  **Junior Java Developer · CS Student · Chișinău, Moldova**
+  # Hello there 👋
+  **I'm Alexandr Pitropov — Junior Java Developer · CS Student · Chișinău, Moldova**
 
 </div>
 
@@ -30,7 +30,7 @@ Currently building **ConsoleShop** — a full-stack e-commerce platform for gami
 
 - 🏎️ Formula 1
 - 🎮 Gaming
-- 📺 TV Series
+- 📺 Movies & TV Series
 - 🎵 Metal & Rock
 
 ---
