@@ -1,7 +1,9 @@
 <div align="center">
 
   # Hello there 👋
-  **I'm Alexandr Pitropov — Junior Java Developer · CS Student · Chișinău, Moldova**
+  **I'm Alexandr Pitropov — Junior Java Developer · CS Student**
+
+  📍 Chișinău, Moldova · 🎓 Universitatea de Stat din Moldova
 
 </div>
 
