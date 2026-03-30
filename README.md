@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://i.imgur.com/VVTRavG.jpeg" width="120" style="border-radius: 50%;" alt="avatar"/>
+  <img src="https://i.imgur.com/YCXli2B.jpeg" width="120" style="border-radius: 50%;" alt="avatar"/>
 
   # Hey, I'm Alexandr Pitropov 👋
-  **Junior Java Developer · CS Student · Chișinău, Moldova**
+  **Junior Java Developer · CS Student · Chișinău, Moldova 🇲🇩**
 </div>
 
 ---
