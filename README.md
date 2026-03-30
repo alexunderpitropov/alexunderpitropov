@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/YCXli2B.jpeg" width="120" style="border-radius: 50%;" alt="avatar"/>
+  <img src="https://raw.githubusercontent.com/alexunderpitropov/alexunderpitropov/main/images/me.JPG" width="120" style="border-radius: 50%;" alt="avatar"/>
 
   # Hey, I'm Alexandr Pitropov 👋
   **Junior Java Developer · CS Student · Chișinău, Moldova 🇲🇩**
