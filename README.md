@@ -1,7 +1,7 @@
 <div align="center">
 
   # Hey, I'm Alexandr Pitropov 👋
-  **Junior Java Developer · CS Student · Chișinău, Moldova 🇲🇩**
+  **Junior Java Developer · CS Student · Chișinău, Moldova**
 
 </div>
 
